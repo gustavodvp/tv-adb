@@ -1,0 +1,11 @@
+# Proposal - disabled with "pm disable-user --user 0" (reversible with "pm enable --user 0").
+# Lines starting with # are skipped by apply.ps1.
+com.tcl.esticker
+com.tcl.messagebox
+com.tcl.waterfall.overseas
+com.tcl.logkit
+com.google.android.feedback
+android.autoinstalls.config.google.gtvpai
+# Optional bloat (not ads) - uncomment if wanted:
+com.google.android.play.games
+com.google.android.youtube.tvmusic

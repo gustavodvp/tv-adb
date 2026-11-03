@@ -1,0 +1,17 @@
+# whitelist: tudo ignorado, so os scripts entram (nada de keys, backup, logs, IP da TV)
+*
+!.gitignore
+!INSTALL-TCL.md
+!README.md
+!apply.ps1
+!approved-packages.txt
+!backup.ps1
+!common.ps1
+!connect.ps1
+!install-tvbro.ps1
+!monitor.ps1
+!play-youtube.ps1
+!stream-probe.ps1
+!ui.ps1
+!capture-screens.ps1
+!check-resolutions.ps1
